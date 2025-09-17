@@ -20,6 +20,8 @@ My name is Vignesh Perumal. My interests and expertise lie in designing and impl
 
 ## My Recent Publications 📜
 
+- "A digital twin for manufacturing with direct energy deposition: a stellarator inner vessel case study" [Digital Twin (2025)](https://doi.org/10.1080/27525783.2025.2534822)
+
 - "Data-driven approaches for computational modeling for plasticity, fatigue, and fracture behavior of alloys" [Innovative Lightweight and High-Strength Alloys (2024)](https://doi.org/10.1016/B978-0-323-99539-9.00005-9)
 
 - “On the Process of Designing Material Qualification Type Specimens Manufactured using Laser Powder Bed Fusion” [Materials & Design (2023)](https://doi.org/10.1016/j.matdes.2023.111893)
